@@ -42,8 +42,6 @@ public class ThisEscape {
                         e.printStackTrace();
                     }
                 }
-
-
             }
         };
         t.start();
