@@ -1,4 +1,4 @@
-package com.jackie.concurrency.concurrency_practice;
+package com.jackie.concurrency.concurrency.practice;
 
 import java.util.ArrayList;
 import java.util.List;

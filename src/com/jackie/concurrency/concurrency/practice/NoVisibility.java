@@ -1,4 +1,4 @@
-package com.jackie.concurrency.concurrency_practice;
+package com.jackie.concurrency.concurrency.practice;
 
 public class NoVisibility {
     private static boolean ready;
